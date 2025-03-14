@@ -1,0 +1,13 @@
+name: Shiny_teste
+title: Shiny_teste
+username: damienfrancahuchet
+account: damienfrancahuchet
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14106822
+bundleId: 9860512
+url: https://damienfrancahuchet.shinyapps.io/Shiny_teste/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app (1).R|app.R|App_projeções/Aplicativo_projeções/app.R|App_projeções/Aplicativo_projeções/www/images.jpeg|base_pop_idade_mn.xlsx|base_pop_idade_mn_sexo_vg.xlsx|base_pop_idade_mn_total.xlsx|base_pop_idade_mn_vg.xlsx|base_pop_idade_porte.xlsx|base_pop_idade_porte_sexo_vg.xlsx|base_pop_idade_porte_total.xlsx|base_pop_idade_porte_vg.xlsx|base_pop_idade_rg.xlsx|base_pop_idade_rg_sexo_vg.xlsx|base_pop_idade_rg_total.xlsx|base_pop_idade_rg_vg.xlsx|base_tx_mn_total.xlsx|base_tx_porte_total.xlsx|base_tx_rg_total.xlsx|Extras_shiny (1).R|Extras_shiny.R|indice_de_envelhecimento_mn_60.xlsx|indice_de_envelhecimento_mn_65.xlsx|indice_de_envelhecimento_mn_80.xlsx|indice_de_envelhecimento_porte_60.xlsx|indice_de_envelhecimento_porte_65.xlsx|indice_de_envelhecimento_porte_80.xlsx|indice_de_envelhecimento_rg_60.xlsx|indice_de_envelhecimento_rg_65.xlsx|indice_de_envelhecimento_rg_80.xlsx|percentual_maior_de_60_anos_mn.xlsx|percentual_maior_de_60_anos_porte.xlsx|percentual_maior_de_60_anos_rg.xlsx|percentual_maior_de_65_anos_mn.xlsx|percentual_maior_de_65_anos_porte.xlsx|percentual_maior_de_65_anos_rg.xlsx|percentual_menor_de_5_anos_mn.xlsx|percentual_menor_de_5_anos_porte.xlsx|percentual_menor_de_5_anos_rg.xlsx|pop_interp_mm_idade_shiny.xlsx|pop_minas_gerais.xlsx|pop_minas_gerais_sexo.xlsx|razao_dep_idosa_mn.xlsx|razao_dep_idosa_porte.xlsx|razao_dep_idosa_rg.xlsx|razao_dep_jovem_mn.xlsx|razao_dep_jovem_porte.xlsx|razao_dep_jovem_rg.xlsx|razao_dep_total_mn.xlsx|razao_dep_total_porte.xlsx|razao_dep_total_rg.xlsx|RDP_IE_PERC.R|rs_mn.xlsx|rs_porte.xlsx|rs_rg.xlsx|Script_cresc_idades.R|www/fapemig.png|www/Nova-Marca-FJP-sem-fundo.png|Bases_Shiny
